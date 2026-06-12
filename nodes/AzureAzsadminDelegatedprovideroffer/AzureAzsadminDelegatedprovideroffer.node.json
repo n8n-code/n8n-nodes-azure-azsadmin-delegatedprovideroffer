@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevAzureAzsadminDelegatedprovideroffer",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-azsadmin-delegatedprovideroffer"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-azsadmin-delegatedprovideroffer?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
